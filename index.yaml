@@ -9,6 +9,6 @@ entries:
     name: MWC-telefonica-app-container
     type: application
     urls:
-    - charts/MWC-telefonica-app-container-0.1.0.tgz
+    - https://michnearby.github.io/MWC-Helm/charts/MWC-telefonica-app-container-0.1.0.tgz
     version: 0.1.0
 generated: "2025-01-22T22:16:55.959754+01:00"
