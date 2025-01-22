@@ -3,7 +3,7 @@ entries:
   MWC-telefonica-app-container:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-01-22T22:16:55.96012+01:00"
+    created: "2025-01-22T22:54:16.853131+01:00"
     description: A Helm chart for deploying MWC applications
     digest: 0f5c24071bb462fabe8955e3b7a6a0889cb0313f242ada7b4d4e71a6ea012dc2
     name: MWC-telefonica-app-container
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://michnearby.github.io/MWC-Helm/charts/MWC-telefonica-app-container-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-22T22:16:55.959754+01:00"
+generated: "2025-01-22T22:54:16.852661+01:00"
